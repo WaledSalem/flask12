@@ -1,0 +1,9 @@
+Flask
+Flask-SQLAlchemy
+Jinja2
+SQLAlchemy
+Werkzeug
+pytest
+pytest-cov
+Wheel
+Flask-Testing
